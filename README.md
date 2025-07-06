@@ -13,7 +13,7 @@
 - Built in Python (Tkinter, Scikit-learn, Pandas, Matplotlib)
 - Easy to extend with more advanced models (LSTM, XGBoost) or more features
 
-## ⚡ Quick Start
+## Quick Start
 1. Clone & install
     ```bash
     git clone https://github.com/Fullestcommerce/ProRock.git
